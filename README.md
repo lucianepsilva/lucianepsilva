@@ -3,9 +3,10 @@
 
 
 ## 🚀 Sobre mim
-Olá, eu sou a Luciane e atualmente estou estudando Bacharelado em Tecnologia da Informação na [Univesp](https://univesp.br/).
+Olá, eu sou a Luciane, Bacharel em Tecnologia da Informação pela [Univesp](https://univesp.br/).
 
-###### Estou em busca constante de aprendizado e habilidades na área de tecnologia. 
+###### Explorando Python, desenvolvimento web e análise de dados para criar soluções eficazes e extrair insights estratégicos.
+###### Estou em busca constante de aprendizado e novas habilidades na área de tecnologia.
 
 ## 🔗 Links
 
